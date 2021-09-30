@@ -2,7 +2,7 @@
 title: Or Cherfas
 email: or@orcherfas.com
 description: Or Cherfas personal website.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://orcherfas.com" # the base hostname & protocol for your site
 
 # Identity
@@ -10,7 +10,6 @@ your-name: Or Cherfas
 your-title: Experienced Software Developer
 
 # Social settings
-500px_url: https://lh3.googleusercontent.com/pw/AM-JKLXy_SvIpmnvbR2VIhb-oYmB3opYTkgBQnDzxDauttAXZyx5-Ce915VGiTrI7lIZrZFK94qz_8j7YQMud_j-5Ngp0NjEmuvACenPMWdJVyPIrq5xmamHXRV3OrDkxVJdupXKUuqfymqSQoYAWO3XsAZV5g=w833-h948-no
 github_url: https://github.com/ocherfas
 linkedin_url: https://www.linkedin.com/in/or-cherfas
 
